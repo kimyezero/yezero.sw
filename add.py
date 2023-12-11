@@ -1,4 +1,1 @@
-x=int(input("input x? "))
-y=int(input("input y? "))
-z=x+y
-print(f"x+y={z}")
+네용을 작성하세요
